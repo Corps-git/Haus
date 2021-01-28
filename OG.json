@@ -63,6 +63,12 @@
          "id":5,
          "name":"startvonEG2",
          "opacity":1,
+         "properties":[
+                {
+                 "name":"startLayer",
+                 "type":"bool",
+                 "value":true
+                }],
          "type":"tilelayer",
          "visible":true,
          "width":70,
@@ -75,6 +81,12 @@
          "id":11,
          "name":"startvonEG1",
          "opacity":1,
+         "properties":[
+                {
+                 "name":"startLayer",
+                 "type":"bool",
+                 "value":true
+                }],
          "type":"tilelayer",
          "visible":true,
          "width":70,
@@ -87,6 +99,12 @@
          "id":8,
          "name":"exitnachEG2",
          "opacity":1,
+         "properties":[
+                {
+                 "name":"exitUrl",
+                 "type":"string",
+                 "value":"EG.json#startvonOG2"
+                }],
          "type":"tilelayer",
          "visible":true,
          "width":70,
@@ -99,6 +117,12 @@
          "id":10,
          "name":"exitnachEG1",
          "opacity":1,
+         "properties":[
+                {
+                 "name":"exitUrl",
+                 "type":"string",
+                 "value":"EG.json#startvonOG1"
+                }],
          "type":"tilelayer",
          "visible":true,
          "width":70,
