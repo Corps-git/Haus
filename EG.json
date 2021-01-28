@@ -121,7 +121,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"KG#startvonEG"
+                 "value":"KG.json#startvonEG"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -139,7 +139,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"OG#startvonEG2"
+                 "value":"OG.json#startvonEG2"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -157,7 +157,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"OG#startvonEG1"
+                 "value":"OG.json#startvonEG1"
                 }],
          "type":"tilelayer",
          "visible":true,
